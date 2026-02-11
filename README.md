@@ -45,12 +45,13 @@ tic-tac-toe/
 
 📸 Screenshots
 
-Add screenshots of gameplay here
+ screenshots of gameplay
 
 <img width="500" height="500" alt="Screenshot (227)" src="https://github.com/user-attachments/assets/c838640a-c333-4401-8934-db0eb646e30a" />
 
 
 <img width="500" height="500" alt="Screenshot (228)" src="https://github.com/user-attachments/assets/73ee7d56-8068-40cc-8ed8-19edd1cfde85" />
+
 
 
 ![Game Preview]
