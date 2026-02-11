@@ -4,19 +4,25 @@ A modern, responsive, and interactive Tic Tac Toe game built using HTML, CSS, an
 
 🚀 Features
 ✔ Player vs Player mode
+
 ✔ Player vs Computer (AI) mode
+
 ✔ Live score counter
+
 ✔ Smooth win animations
+
 ✔ Sound effects for better UX
+
 ✔ Fully responsive layout
+
 ✔ Restart game button
 
-🛠 #Tech Stack
+🛠Tech Stack
 HTML5
 CSS3 (Grid, Flexbox, Animations)
 JavaScript (DOM, Game Logic)
 
-🎯 #Game Modes
+🎯Game Modes
 👥 Player vs Player
 Play with a friend on the same device.
 🤖 Player vs Computer
@@ -30,9 +36,9 @@ tic-tac-toe/
 
 📸 Screenshots
 Add screenshots of gameplay here
-<img width="1366" height="768" alt="Screenshot (227)" src="https://github.com/user-attachments/assets/c838640a-c333-4401-8934-db0eb646e30a" />
+<img width="100" height="200" alt="Screenshot (227)" src="https://github.com/user-attachments/assets/c838640a-c333-4401-8934-db0eb646e30a" />
 
-<img width="1366" height="768" alt="Screenshot (228)" src="https://github.com/user-attachments/assets/73ee7d56-8068-40cc-8ed8-19edd1cfde85" />
+<img width="100" height="200" alt="Screenshot (228)" src="https://github.com/user-attachments/assets/73ee7d56-8068-40cc-8ed8-19edd1cfde85" />
 
 
 ![Game Preview]
