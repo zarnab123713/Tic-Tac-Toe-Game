@@ -62,7 +62,7 @@ Clone the repository
 
 Copy code
 
-git clone https://github.com/zarnab123713/Tic-Tac-Toe.git
+git clone     https://github.com/zarnab123713/Tic-Tac-Toe-Game.git
 
 Open index.html in your browser
 
