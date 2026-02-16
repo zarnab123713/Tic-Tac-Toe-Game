@@ -1,8 +1,10 @@
 # Tic-Tac-Toe-Game
-🎮 Tic Tac Toe Game
+# 🎮 Tic Tac Toe Game
 A modern, responsive, and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript with multiple play modes, animations, sound effects, and score tracking.
 
-🚀 Features
+---
+
+## 🚀 Features
 
 ✔ Player vs Player mode
 
@@ -18,7 +20,9 @@ A modern, responsive, and interactive Tic Tac Toe game built using HTML, CSS, an
 
 ✔ Restart game button
 
-🛠Tech Stack
+---
+
+## 🛠Tech Stack
 
 HTML5
 
@@ -26,16 +30,20 @@ CSS3 (Grid, Flexbox, Animations)
 
 JavaScript (DOM, Game Logic)
 
-🎯Game Modes
+---
 
-👥 Player vs Player
+## 🎯Game Modes
+
+👥 **Player vs Player**
           Play with a friend on the same device.
 
-🤖 Player vs Computer
+🤖 **Player vs Computer**
       Challenge a built-in AI opponent.
 
-📂 Project Structure
-tic-tac-toe/
+---
+
+## 📂 Project Structure
+**tic-tac-toe**/
 
 ├── index.html
 
@@ -43,7 +51,9 @@ tic-tac-toe/
 
 └── script.js
 
-📸 Screenshots
+---
+
+## 📸 Screenshots
 
  screenshots of gameplay
 
@@ -56,14 +66,26 @@ tic-tac-toe/
 
 ![Game Preview]
 
-▶ How to Run
+---
+
+## ▶ How to Run
 
 Clone the repository
 
 Copy code
 
-git clone     https://github.com/zarnab123713/Tic-Tac-Toe-Game.git
+**git clone**     https://github.com/zarnab123713/Tic-Tac-Toe-Game.git
 
 Open index.html in your browser
 
 Enjoy the game 🎉
+
+---
+
+## 📝 Author
+
+Silent eXpert|Zarnab Fatima
+
+ Software Engineer 
+---
+
